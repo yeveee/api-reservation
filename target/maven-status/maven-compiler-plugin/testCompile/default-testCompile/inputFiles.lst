@@ -1,0 +1,8 @@
+/Users/yevheniibondarenko/api-reservation/api-reservation/src/test/java/com/reservation/domain/entities/ParticipantTest.java
+/Users/yevheniibondarenko/api-reservation/api-reservation/src/test/java/com/reservation/domain/valueobjects/ReservationPeriodTest.java
+/Users/yevheniibondarenko/api-reservation/api-reservation/src/test/java/com/reservation/domain/entities/RoomTest.java
+/Users/yevheniibondarenko/api-reservation/api-reservation/src/test/java/com/reservation/interfaces/controllers/RoomControllerIntegrationTest.java
+/Users/yevheniibondarenko/api-reservation/api-reservation/src/test/java/com/reservation/application/services/RoomServiceTest.java
+/Users/yevheniibondarenko/api-reservation/api-reservation/src/test/java/com/reservation/application/services/ReservationServiceTest.java
+/Users/yevheniibondarenko/api-reservation/api-reservation/src/test/java/com/reservation/interfaces/controllers/ReservationControllerIntegrationTest.java
+/Users/yevheniibondarenko/api-reservation/api-reservation/src/test/java/com/reservation/domain/aggregates/ReservationTest.java

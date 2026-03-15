@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.reservation.interfaces.controllers.ReservationControllerIntegrationTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.804 s -- in com.reservation.interfaces.controllers.ReservationControllerIntegrationTest

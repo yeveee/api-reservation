@@ -1,0 +1,8 @@
+com/reservation/application/services/RoomServiceTest.class
+com/reservation/domain/entities/RoomTest.class
+com/reservation/interfaces/controllers/RoomControllerIntegrationTest.class
+com/reservation/domain/valueobjects/ReservationPeriodTest.class
+com/reservation/application/services/ReservationServiceTest.class
+com/reservation/domain/aggregates/ReservationTest.class
+com/reservation/interfaces/controllers/ReservationControllerIntegrationTest.class
+com/reservation/domain/entities/ParticipantTest.class

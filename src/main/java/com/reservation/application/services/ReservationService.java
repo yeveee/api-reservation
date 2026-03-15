@@ -159,6 +159,13 @@ public class ReservationService {
     }
 
     /**
+     * Récupère toutes les réservations actives d'une salle.
+     */
+    public List<Reservation> getReservationsByRoomId(String roomId) {
+        return reservationRepository.findActiveReservationsByRoomId(roomId);
+    }
+
+    /**
      * Supprime une réservation (hard delete).
      */
     public void deleteReservation(String id) {
